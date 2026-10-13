@@ -1,0 +1,8 @@
+{
+	"mcpServers": {
+		"kaggle": {
+			"url": "https://www.kaggle.com/mcp",
+			"type": "http"
+		}
+	}
+}
