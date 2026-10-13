@@ -1,4 +1,4 @@
-# [Fatec ML Métricas](https://classroom.google.com/c/ODcxODQyODAxNTEw/a/ODg5OTM1ODY1Mjgw/details)
+# [Fatec Métricas (Machine Learning)](https://classroom.google.com/c/ODcxODQyODAxNTEw/a/ODg5OTM1ODY1Mjgw/details)
 
 Procure por uma base de dados na Internet (por exemplo: Kagle) e utilize o exemplo dado em aula para aplicar as transformações dos dados (tranformá-los em numeros). Depois, apresente:
 
