@@ -14,9 +14,9 @@ Tempo de apresentação: 10 minutos
 
 Entrega: 
 
-- [ ] Arquivo .ipynb, 
-- [ ] base de dados (.xlsx, .csv...)
-- [ ] Arquivo de apresentação (.pptx, .docx, ...)
+- [x] [Arquivo .ipynb](./analise_titanic.ipynb)
+- [x] [base de dados (.xlsx, .csv...)](./titanic.csv)
+- [x] [Arquivo de apresentação (.pptx, .docx, ...)](./apresentacao_titanic.pptx)
 
 Atenção: Após o dia 20/10 a atividade se encerará, sem possibilidade de entrega posterior.
 
