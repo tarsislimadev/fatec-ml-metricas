@@ -8,9 +8,9 @@ Procure por uma base de dados na Internet (por exemplo: Kaggle) e utilize o exem
 - [x] Recall
 - [x] Ao final faça uma avaliação, dada as métricas encontradas.
 
-Esta é uma tarefa individual e avaliativa que deverá ser apresentada na próxima aula. 
+<!-- Esta é uma tarefa individual e avaliativa que deverá ser apresentada na próxima aula. -->
 
-Tempo de apresentação: 10 minutos
+<!-- Tempo de apresentação: 10 minutos -->
 
 Entrega: 
 
